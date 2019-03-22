@@ -15,8 +15,7 @@ import java.util.ArrayList;
  *
  * @author Asus
  */
-
-
+//janganlupabijamset10wkwkciaraudahchatdaritadisuruhbangun
 // yes bisa
 // COBA GIT BISA HUAHAHAHAHHAAHAHAHA
 public class Processes {
